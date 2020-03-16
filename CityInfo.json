@@ -1,1 +1,80 @@
-
+[
+  {
+    "name": "Karachi",
+    "province": "Sindh",
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "name": "Hyderabad",
+    "province": "Sindh",
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "name": "Dadu",
+    "province": "Sindh",
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "name": "Sukker",
+    "province": "Sindh",
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "name": "Larkana",
+    "province": "Sindh",
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "name": "Hala",
+    "province": "Sindh",
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "name": "Thatta",
+    "province": "Sindh",
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "name": "Makli",
+    "province": "Sindh",
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "name": "Boubak",
+    "province": "Sindh",
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "name": "Sehwan",
+    "province": "Sindh",
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "name": "Bhan",
+    "province": "Sindh",
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "name": "JacobAbad",
+    "province": "Sindh",
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "name": "Shikar pur",
+    "province": "Sindh",
+    "latitude": 0.0,
+    "longitude": 0.0
+  }
+]
